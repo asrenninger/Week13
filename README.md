@@ -6,4 +6,4 @@ This week, we will learn about "Azavea RasterVision", an open source framework f
 
 - [Overview - Azavea-RasterVision](MLinRS_ToolsPackages.pdf)
 
-Final Poll https://forms.gle/XR38yT8RywfmVzrq8
+Final Poll: https://forms.gle/XR38yT8RywfmVzrq8
